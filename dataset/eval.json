@@ -80,7 +80,7 @@
     "id": "difficult_107_89"
   },
   {
-    "sentence": "Nhưng , trong một tiểu luận khác : Tồn tại trong khuôn khổ : Phê bình cấp tiến và Quan điểm nữ quyền ( Dwelling in Decencies : Radical Critism and the Feminist Perspective ) , Lillian Robinson lại bắt bẻ rằng , thực chất , Pratt mới chỉ đơn thuần nhắc lại những phương thức tư sản của lối phê bình tiểu sử , phê bình hình thức , mang đặc trưng xã hội học và hướng tới nguyên mẫu .",
+    "sentence": "Trong một tiểu luận khác , Lillian Robinson lại bắt bẻ rằng , thực chất , Pratt mới chỉ đơn thuần nhắc lại những phương thức tư sản của lối phê bình tiểu sử , phê bình hình thức , mang đặc trưng xã hội học và hướng tới nguyên mẫu .",
     "result": "Trong một bài viết khác, Lillian Robinson chỉ trích rằng Pratt chỉ đơn giản lặp lại các phương pháp phê bình tiểu sử và hình thức, có đặc điểm xã hội học và hướng tới nguyên mẫu.",
     "id": "difficult_309_119"
   },
@@ -1001,7 +1001,7 @@
   },
   {
     "sentence": "Việc tác giả lựa chọn kiểu người kể chuyện như thế nào sẽ là điểm mấu chốt để thiết lập cấu trúc truyện kể ( tất nhiên , sự lựa chọn này phải tuân theo nguyên tắc của nghệ thuật và bản chất của ngôn từ ) và cũng chính sự lựa chọn này sẽ định hướng việc giải mã văn bản nghệ thuật .",
-    "result": "Cách tác giả chọn người kể chuyện quan trọng để xây dựng truyện và giúp hiểu văn bản nghệ thuật.",
+    "result": "Cách tác giả chọn người kể chuyện rất quan trọng để xây dựng truyện và giúp hiểu văn bản nghệ thuật.",
     "id": "difficult_005_24"
   },
   {
@@ -2180,7 +2180,7 @@
     "id": "difficult_182_123"
   },
   {
-    "sentence": "Ý định lấy vợ dần choán ngợp tâm trí , nhưng hắn cứ lần lừa , đắn đo , suy tính vì cứ sợ thế này thế nọ .",
+    "sentence": "Ý định lấy vợ dần choáng ngợp tâm trí , nhưng hắn cứ lần lừa , đắn đo , suy tính vì cứ sợ thế này thế nọ .",
     "result": "Anh ấy muốn cưới vợ nhưng cứ lo lắng, không quyết định được.",
     "id": "medium_042_37"
   },
@@ -2430,8 +2430,8 @@
     "id": "difficult_002_152"
   },
   {
-    "sentence": "Đêm sau đi dăng lưới qua đấy , anh lại nghe tiếng chim hót : anh lại đứng lại nghe và lại reo lên : Trời ơi , Thánh thót biết bao .",
-    "result": "Đêm sau, anh đi qua đó và nghe thấy tiếng chim hót, anh dừng lại và thốt lên: Trời ơi, hay quá.",
+    "sentence": "Đêm sau đi dăng lưới qua đấy , anh lại nghe tiếng chim hót : anh lại đứng lại nghe và lại reo lên : Trời ơi , thánh thót biết bao .",
+    "result": "Đêm sau, anh đi qua đó. Anh lại nghe tiếng chim hót, dừng lại và thốt lên: Trời ơi, thánh thót biết bao!",
     "id": "medium_099_11"
   },
   {
@@ -2490,7 +2490,7 @@
     "id": "difficult_140_455"
   },
   {
-    "sentence": "Ếch trẻ nói : \" Phải nhảy xuống , dưới đó có nhiều nước và ở d ới đó thì không còn ai quấy rầy ta nữa . \"",
+    "sentence": "Ếch trẻ nói : \" Phải nhảy xuống , dưới đó có nhiều nước và ở dưới đó thì không còn ai quấy rầy ta nữa . \"",
     "result": "Ếch con nói: \"Nhảy xuống đi, dưới kia nhiều nước và yên tĩnh.\"",
     "id": "veryeasy_473_3"
   },
